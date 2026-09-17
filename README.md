@@ -1,10 +1,10 @@
 # Getting_and_Cleaning_Data
 This repository is a part of assignment in Coursera and includes;
-Download and unzip the Dataset
-Load Activity Labels and Features
-Extract the Data on Mean and Standard Deviation
-Load the Datasets
-Merging the Datasets and Adding Labels
-Create Independant Tidy Datasets
-Final Dataset into File
-Print the tidy data
+1. Download and unzip the Dataset
+2. Load Activity Labels and Features
+3. Extract the Data on Mean and Standard Deviation
+4. Load the Datasets
+5. Merging the Datasets and Adding Labels
+6. Create Independant Tidy Datasets
+7. Final Dataset into File
+8. Print the tidy data
