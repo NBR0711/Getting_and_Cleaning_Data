@@ -1,13 +1,13 @@
 This is a course project and is a part of Getting and Cleaning Data
 This consists ofthe following; 
-Download and unzip the Dataset
-Load Activity Labels and Features
-Extract the Data on Mean and Standard Deviation
-Load the Datasets
-Merging the Datasets and Adding Labels
-Create Independant Tidy Datasets
-Final Dataset into File
-Print the tidy data
+1. Download and unzip the Dataset
+2. Load Activity Labels and Features
+3. Extract the Data on Mean and Standard Deviation
+4. Load the Datasets
+5. Merging the Datasets and Adding Labels
+6. Create Independant Tidy Datasets
+7. Final Dataset into File
+8. Print the tidy data
 
 
 Activity labels includes;
@@ -18,7 +18,7 @@ Activity labels includes;
 5 STANDING
 6 LAYING
 
-feature_info
+#feature_info:  
 tBodyAcc-XYZ
 tGravityAcc-XYZ
 tBodyAccJerk-XYZ
@@ -37,7 +37,7 @@ fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
 
-The set of variables that were estimated from these signals are: 
+#The set of variables that were estimated from these signals are: 
 
 mean(): Mean value
 std(): Standard deviation
@@ -57,7 +57,7 @@ kurtosis(): kurtosis of the frequency domain signal
 bandsEnergy(): Energy of a frequency interval within the 64 bins of the FFT of each window.
 angle(): Angle between to vectors.
 
-Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
+#Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
 
 gravityMean
 tBodyAccMean
@@ -65,6 +65,6 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
-The complete list of variables of each feature vector is available in 'features.txt'
+#The complete list of variables of each feature vector is available in 'features.txt'
 
-This also includes the X_test data, Y_test data and features in detail.
+#This also includes the X_test data, Y_test data and features in detail.
